@@ -24,7 +24,7 @@ This project aims to measure recent volatility in the equities market by creatin
 - `SPY_4-21-2024_to_7-21-2024.csv`: Raw data file (not included in repository)
 
 ## Installation
-1. Clone this repository
+1. Clone the repository 
 2. Install required packages: `pip install -r requirements.txt`
 
 ## Usage
@@ -37,9 +37,6 @@ This project aims to measure recent volatility in the equities market by creatin
 - Model performance metrics (MSE, RMSE, R-squared)
 - Visualization of actual vs predicted close prices
 - Feature importance analysis
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 Undecided
